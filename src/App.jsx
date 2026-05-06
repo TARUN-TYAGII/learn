@@ -35,7 +35,7 @@ function App() {
 
   return (
     <main className="todo-app">
-      <h1>Simple Todo</h1>
+      <h1>Just a Simple Todo</h1>
       <form className="todo-form" onSubmit={addTodo}>
         <input
           type="text"
